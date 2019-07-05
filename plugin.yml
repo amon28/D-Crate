@@ -1,0 +1,9 @@
+name: DewCrate
+version: 1.0
+main: Dewcrate\Main
+api: [3.0.0]
+author: Amon
+
+commands:
+ dkey:
+  description: Give Dkey
